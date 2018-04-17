@@ -1,2 +1,2 @@
-# green_code
-My_training_project
+# Tetris
+My realization of tetris from c ++. I not use OOP 
